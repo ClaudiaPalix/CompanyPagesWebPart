@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "company-pages-web-part-client-side-solution",
+    "id": "9812995a-5c23-4b7b-899e-651be11c1302",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "company-pages-web-part description"
+      },
+      "longDescription": {
+        "default": "company-pages-web-part description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "company-pages-web-part Feature",
+        "description": "The feature that activates elements of the company-pages-web-part solution.",
+        "id": "3734e0b9-733f-4610-9008-431f173d7493",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/company-pages-web-part.sppkg"
+  }
+}
